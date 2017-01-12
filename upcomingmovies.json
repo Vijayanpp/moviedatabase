@@ -1,6 +1,93 @@
 {
-  "title": "thery",
-  "director": "automation",
-  "music": "rahman",
-  "screen": {}
+  "id": "1",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "2",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "3",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "4",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "5",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+
+{
+  "id": "6",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+
+{
+  "id": "7",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "8",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+
+{
+  "id": "9",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+},
+{
+  "id": "10",
+  "title": "munthiri vallikal thalirkkumbol",
+  "year": "2017",
+  "category": "drama/comedy",
+  "releaseDate": "26/1/2017",
+  "like": "46",
+  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
 }
