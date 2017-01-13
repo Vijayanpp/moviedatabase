@@ -1,137 +1,161 @@
 [{
   "id": "1",
-  "title": "munthiri vallikal thalirkkumbol",
+  "title": "The Bye Bye Man",
   "year": "2017",
-  "category": "drama/comedy",
+  "category": "Thriller/Horror",
   "release_date": "26/1/2017",
   "like": "46",
   "comment":"30",
   "vote_average":"9",
-  "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg"
+  "imageUrl": "https://s30.postimg.org/l58nxvtz5/hqdefault_2.jpg"
 },
 {
   "id": "2",
-  "title": "Jomonte Suvisheshangal",
+  "title": "XXX: Return of Xander Cage",
   "year": "2017",
-  "category": "drama/comedy",
+  "category": "Crime/Thriller",
   "release_date": "16 December 2016",
   "like": "246",
   "comment":"40",
   "vote_average":"8",
-  "imageUrl": "https://s27.postimg.org/ld48y514z/Jomonte_Suvisheshangal_Malayalam_poster.jpg"
+  "imageUrl": "https://s24.postimg.org/n4e8n1wqt/x_Xx_Return_of_Xander_Cage_trailer_790x298.jpg"
 },
 {
   "id": "3",
-  "title": "Poomaram",
+  "title": "Bastards",
   "year": "2017",
-  "category": "drama/comedy",
+  "category": "comedy",
   "release_date": "26/1/2017",
   "like": "96",
   "comment":"10",
   "vote_average":"7",
-  "imageUrl": "https://s23.postimg.org/hix6zxuej/Poomaram_2016_malayalam_movie_songs_download.jpg"
+  "imageUrl": "https://s24.postimg.org/qzzepqvwl/Bastardsppal.jpg"
 },
 {
   "id": "4",
-   "title": "Honey Bee 2",
+   "title": "Fifty Shades Darker",
   "year": "2017",
-  "category": "drama/comedy",
+  "category": "drama/romantic",
   "release_date": "26/1/2017",
   "like": "46",
   "comment":"6",
   "vote_average":"7",
-  "imageUrl": "https://s23.postimg.org/6nhmo1e3f/maxresdefault.jpg"
+  "imageUrl": "https://s23.postimg.org/j1ttym3a3/hqdefault.jpg"
 },
 {
   "id": "5",
-   "title": "Sakhavu",
+   "title": "John Wick: Chapter 2",
   "year": "2017",
-  "category": "drama/comedy",
-  "release_date": "26/1/2017",
+  "category": "crime/thriller",
+  "release_date": "10 February 2017",
   "like": "106",
   "comment":"60",
   "vote_average":"9",
-  "imageUrl": "https://s28.postimg.org/ea6l0jj3x/sakhavu_poster_stills_images_nivin_pauly_2.jpg"
+  "imageUrl": "https://s28.postimg.org/jd79s50p9/maxresdefault.jpg"
 },
 
 {
   "id": "6",
-   "title": "Avarude Ravukal",
+   "title": "Fist Fight",
   "year": "2017",
-  "category": "drama/comedy",
-  "release_date": "26/1/2017",
+  "category": "comedy",
+  "release_date": "10 February 2017",
   "like": "46",
   "comment":"30",
   "vote_average":"9",
-  "imageUrl": "https://s30.postimg.org/uvdse9gu9/unni_mukundan_avarude_ravukal.jpgg"
+  "imageUrl": "https://s30.postimg.org/gmhjxjn6p/Fist_Fight_Movie_Trailer_2017_Ice_Cube_Charlie_D.jpg"
 },
 
 {
   "id": "7",
-   "title": "Achayans",
+   "title": "Logan",
   "year": "2017",
-  "category": "drama/comedy",
-  "release_date": "26/1/2017",
+  "category": "Fiction/Action",
+  "release_date": "2 March 2017",
   "like": "86",
   "comment":"20",
   "vote_average":"9",
-  "imageUrl": "https://s30.postimg.org/ekb220km9/1481281759_achayans.jpg"
+  "imageUrl": "https://s24.postimg.org/tvtjmz5qt/logan_wolverine_3_movie.png"
 },
 {
   "id": "8",
-   "title": "Veeram",
+   "title": "Kong: Skull Island",
   "year": "2017",
-  "category": "drama",
-  "release_date": "26/1/2017",
+  "category": "Fantacy/Fiction",
+  "release_date": "9 March 2017",
   "like": "336",
   "comment":"120",
   "vote_average":"9",
-  "imageUrl": "https://s23.postimg.org/639sqj257/veeram.jpg"
+  "imageUrl": "https://s28.postimg.org/bpz6mlc4t/kong_skull_island_poster.jpg"
 },
 
 {
   "id": "9",
-   "title": "The Great Father",
+   "title": "Beauty and the Beast",
   "year": "2017",
-  "category": "drama/Thriller",
-  "release_date": "26/1/2017",
+  "category": "Fantasy/Romance",
+  "release_date": "16 March 2017",
   "like": "546",
   "comment":"130",
   "vote_average":"9",
-  "imageUrl": "https://s24.postimg.org/yqdht8hkl/858728372410369307135090.jpg"
+  "imageUrl": "https://s24.postimg.org/gtnesrhr9/maxresdefault_1.jpg"
 },
 {
   "id":"10",
-   "title": "Moothon",
+   "title": "King Arthur: Legend of the Sword",
   "year": "2017",
-  "category": "drama",
-  "release_date": "26/1/2017",
+  "category": "Fantacy/drama",
+  "release_date":"12 May 2017",
   "like": "66",
   "comment":"40",
   "vote_average":"9",
-  "imageUrl": "https://s23.postimg.org/spzncdxfv/moothon_main.jpg"
+  "imageUrl": "https://s30.postimg.org/efz1orrtd/maxresdefault_2.jpg"
 },
  {
   "id":"11",
-   "title": "Karnan",
+   "title": "The Fate of the Furious",
   "year": "2017",
   "category": "drama",
-  "release_date": "26/1/2017",
+  "release_date": "14 April 2017",
   "like": "366",
   "comment":"45",
   "vote_average":"9",
-  "imageUrl": "https://s23.postimg.org/8omcxkcln/12439552_898514773588919_3797135915565126404_n.jpg"
+  "imageUrl": "https://s30.postimg.org/klglyjqrl/Screen_Shot_2016_12_09_at_11_16_39_AM_770x271.png"
 },
  {
   "id":"12",
-   "title": "Lucifer",
+   "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
   "year": "2017",
-  "category": "Thriller",
-  "release_date": "26/1/2017",
+  "category": "Fantacy/Action",
+  "release_date": "26 May 2017",
   "like": "666",
   "comment":"420",
   "vote_average":"9",
-  "imageUrl": "https://s30.postimg.org/ybx90dhe9/hqdefault.jpg"
+  "imageUrl": "https://s30.postimg.org/nj5rg3egh/maxresdefault_3.jpg"
+},
+
+{
+  "id":"13",
+   "title": "Baywatch",
+  "year": "2017",
+  "category": "Action/comedy",
+  "release_date": "26 May 2017",
+  "like": "366",
+  "comment":"45",
+  "vote_average":"9",
+  "imageUrl": "https://s28.postimg.org/psmmg6lpp/maxresdefault_4.jpg"
+},
+ {
+  "id":"14",
+  "title": "Alien: Covenant",
+  "year": "2017",
+  "category": "Science Fiction",
+  "release_date": "19 May 2017",
+  "like": "666",
+  "comment":"420",
+  "vote_average":"9",
+  "imageUrl": "https://s28.postimg.org/6q82giy7x/maxresdefault_5.jpg"
 }
+
 
 ]
