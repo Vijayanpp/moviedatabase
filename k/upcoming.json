@@ -87,7 +87,51 @@
   "comment":"120",
   "vote_average":"9",
   "imageUrl": "https://s23.postimg.org/639sqj257/veeram.jpg"
-}
+},
 
+{
+  "id": "9",
+   "title": "The Great Father",
+  "year": "2017",
+  "category": "drama/Thriller",
+  "release_date": "26/1/2017",
+  "like": "546",
+  "comment":"130",
+  "vote_average":"9",
+  "imageUrl": "https://s24.postimg.org/yqdht8hkl/858728372410369307135090.jpg"
+},
+{
+  "id":"10",
+   "title": "Moothon",
+  "year": "2017",
+  "category": "drama",
+  "release_date": "26/1/2017",
+  "like": "66",
+  "comment":"40",
+  "vote_average":"9",
+  "imageUrl": "https://s23.postimg.org/spzncdxfv/moothon_main.jpg"
+},
+ {
+  "id":"11",
+   "title": "Karnan",
+  "year": "2017",
+  "category": "drama",
+  "release_date": "26/1/2017",
+  "like": "366",
+  "comment":"45",
+  "vote_average":"9",
+  "imageUrl": "https://s23.postimg.org/8omcxkcln/12439552_898514773588919_3797135915565126404_n.jpg"
+},
+ {
+  "id":"12",
+   "title": "Lucifer",
+  "year": "2017",
+  "category": "Thriller",
+  "release_date": "26/1/2017",
+  "like": "666",
+  "comment":"420",
+  "vote_average":"9",
+  "imageUrl": "https://s30.postimg.org/ybx90dhe9/hqdefault.jpg"
+}
 
 ]
