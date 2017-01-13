@@ -1,0 +1,93 @@
+[{
+  "id": "1",
+  "title": "Kaatru Veliyidai",
+  "year": "2017",
+  "category": "drama/romantic",
+  "release_date": "26/1/2017",
+  "like": "46",
+  "comment":"30",
+  "vote_average":"9",
+  "imageUrl": "https://s23.postimg.org/kpjqy2i4r/main.jpg"
+},
+{
+  "id": "2",
+  "title": "Anbanavan Asaradhavan Adangadhavan",
+  "year": "2017",
+  "category": "drama/comedy",
+  "release_date": "16 December 2016",
+  "like": "246",
+  "comment":"40",
+  "vote_average":"8",
+  "imageUrl": "https://s28.postimg.org/51ibhr4fh/Anbanavan_Asaradhavan_Adangadhavan_hd_video_song.jpg"
+},
+{
+  "id": "3",
+  "title": "Enai Noki Paayum Thota ",
+  "year": "2017",
+  "category": "Thriller/Romantic",
+  "release_date": "26/1/2017",
+  "like": "96",
+  "comment":"10",
+  "vote_average":"7",
+  "imageUrl": "https://s29.postimg.org/59j9tvg6v/Enai_Noki_Paayum_Thota.jpg"
+},
+{
+  "id": "4",
+   "title": "Bogan",
+  "year": "2017",
+  "category": "action/comedy",
+  "release_date": "26/1/2017",
+  "like": "46",
+  "comment":"6",
+  "vote_average":"7",
+  "imageUrl": "https://s27.postimg.org/qqebeij6b/hqdefault.jpg"
+},
+{
+  "id": "5",
+  "title": "Magalir Mattum",
+  "year": "2017",
+  "category": "drama/thriller",
+  "release_date": "26/1/2017",
+  "like": "106",
+  "comment":"60",
+  "vote_average":"9",
+  "imageUrl": "https://s29.postimg.org/gcxxdbwyv/Jos_Magalir_Mattum_first_look_poster.jpg"
+},
+
+{
+  "id": "6",
+   "title": "Singam 3",
+  "year": "2017",
+  "category": "Action/Thriller",
+  "release_date": "26/1/2017",
+  "like": "46",
+  "comment":"30",
+  "vote_average":"9",
+  "imageUrl": "https://s29.postimg.org/6mqk863c7/singam3.jpg"
+},
+
+{
+  "id": "7",
+   "title": "Achayans",
+  "year": "2017",
+  "category": "drama/comedy",
+  "release_date": "26/1/2017",
+  "like": "86",
+  "comment":"20",
+  "vote_average":"9",
+  "imageUrl": "https://s30.postimg.org/ekb220km9/1481281759_achayans.jpg"
+},
+{
+  "id": "8",
+   "title": "Veeram",
+  "year": "2017",
+  "category": "drama",
+  "release_date": "26/1/2017",
+  "like": "336",
+  "comment":"120",
+  "vote_average":"9",
+  "imageUrl": "https://s23.postimg.org/639sqj257/veeram.jpg"
+},
+
+
+]
