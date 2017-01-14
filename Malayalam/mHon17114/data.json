@@ -1,0 +1,45 @@
+{
+	"id": "mMun17113",
+	"title": "munthiri vallikal thalirkkumbol",
+	"year": "2017",
+	"category": "drama/comedy",
+	"release_date": "26/1/2017",
+	"like": "46",
+	"comment": "30",
+	"vote_average": "9",
+	"imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg",
+	"overview": "pp",
+	"producer": [{
+		"name": "Sophia Paul",
+		"img": "https://s6.postimg.org/eeycssmip/765_default_avatar.png"
+	}],
+	"prodImg": "",
+	"Screenplay": [{
+		"name": "M Sindhuraj",
+		"img": "https://s6.postimg.org/ojx0id535/photo.jpg"
+	}],
+	"director": [{
+		"name": "Jibu Jacob",
+		"img": "https://s6.postimg.org/n3li08269/31tvm_jibu_2178915g.jpg"
+	}],
+	"music": [{
+		"name": "Bijibal",
+		"img": "https://s6.postimg.org/aer7gjw1t/bijibal1.jpg"
+	}, {
+		"name": "M.Jayachandran",
+		"img": "https://s6.postimg.org/mvxv3pr7l/v5_Bv4jtd.jpg"
+	}],
+	"review": "<p>Munthirivallikal Thalirkkumbol (English: When the Grapevines Sprout) is an upcoming Indian Malayalam domestic drama film directed by Jibu Jacob and written by M. Sindhuraj, loosely based on the Malayalam short story Pranayopanishath by V. J. James. Produced and distributed by Weekend Blockbusters of Sophia Paul, the film stars Mohanlal and Meena, respectively as Panchayat secretary Ulahannan and his wife Annyamma. The soundtrack would feature songs composed by Bijibal and M. Jayachandran, and a film score by Bijibal.</p><p>Sindhuraj obtained the right for adapting Pranayopanishath from James when it was first published in a Malayalam magazine in 2011. In 2015, he was approached by Paul for screenwriting a film for Weekend Blockbusters, planned with Mohanlal in the lead role. He suggested a plot idea based on the short story and began developing the screenplay that year, with Jacob hired to direct the film. Principal photography commenced on 15 July 2016 in Kozhikode, Kerala where over 80 percent of the film was shot. Additional portions were shot at various locations in Alappuzha and concluded filming at Shimla in October 2016.</p><p>Munthirivallikal Thalirkkumbol was originally set for a Christmas opening, scheduled to be released on 22 December 2016 in India. But was delayed as the screening of Malayalam films were halted at the time due to an indefinite strike between the associations of theatres and producers in Kerala. The film is awaiting to re-schedule as soon as the strike is over.</p>",
+	"camera": "Pramod K Pillai",
+	"camImg": "https://s6.postimg.org/eeycssmip/765_default_avatar.png",
+	"Editor": "Sooraj ES",
+	"EditorImg": "https://s6.postimg.org/eeycssmip/765_default_avatar.png",
+	"hero": "Mohanlal",
+	"heroImg": "https://s6.postimg.org/z9apamgw1/maxresdefault.jpg",
+	"heroine": "Meena",
+	"heroineImg":"https://s6.postimg.org/xcdz61q81/21_meena.jpg",
+	"trailors": [{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/8qHITluVfX8' frameborder='0' allowfullscreen></iframe>"}],
+	"musicvideos": [],
+	"videos":[{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/8qHITluVfX8' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/6GdgeRNy-k4' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/-aoPQmugH0w' frameborder='0' allowfullscreen></iframe>"}],
+	"Language": "Malayalam"
+}
