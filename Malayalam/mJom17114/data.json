@@ -39,8 +39,8 @@
 	"productionCompany":"Full Moon Cinema",
 	"Distributed by":"Kalasangham Evergreen Films",
 	"Actors":[{"name":"Mukesh","img":"https://s6.postimg.org/oqy51je2p/mukesh_malayalam_actor.jpg"},{"name":"Innocent","img":"https://s6.postimg.org/prydqnv29/Thrissur_1_Page_03_A_491785e.jpg"},{"name":"Jacob Gregory","img":"https://s6.postimg.org/vdksupvr5/36952471.jpg"},{"name":"Muthumani","img":"https://s6.postimg.org/nyvh2c9vl/16_muthumani_in_su_su_sudhi_vathmeekam_malayalam.jpg"},{"name":"Aishwarya Rajesh","img":"https://s6.postimg.org/eeycssmip/765_default_avatar.png"}],
-	"trailors": [],
-	"musicvideos": [],
+	"trailors": [{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/JQsWCFfRBYI' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/oCiwaOxBYA8' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/dmYUI536bZI' frameborder='0' allowfullscreen></iframe>"}],
+	"musicvideos": [{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/JQsWCFfRBYI' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/oCiwaOxBYA8' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/dmYUI536bZI' frameborder='0' allowfullscreen></iframe>"}],
 	"videos":[{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/JQsWCFfRBYI' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/oCiwaOxBYA8' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/dmYUI536bZI' frameborder='0' allowfullscreen></iframe>"}],
 	"Language": "Malayalam"
 }
