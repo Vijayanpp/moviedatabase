@@ -38,7 +38,8 @@
 	"heroImg": "https://s6.postimg.org/z9apamgw1/maxresdefault.jpg",
 	"heroine": "Meena",
 	"heroineImg":"https://s6.postimg.org/xcdz61q81/21_meena.jpg",
-	"trailors": [],
+	"trailors": [{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/8qHITluVfX8' frameborder='0' allowfullscreen></iframe>"}],
 	"musicvideos": [],
+	"videos":[{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/8qHITluVfX8' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/6GdgeRNy-k4' frameborder='0' allowfullscreen></iframe>"},{"url":"<iframe width='100%' height='360' src='https://www.youtube.com/embed/-aoPQmugH0w' frameborder='0' allowfullscreen></iframe>"}],
 	"Language": "Malayalam"
 }
