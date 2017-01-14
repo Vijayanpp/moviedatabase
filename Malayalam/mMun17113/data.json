@@ -9,17 +9,14 @@
   "vote_average":"9",
   "imageUrl": "https://s28.postimg.org/kynxt9jr1/image.jpg",
   "overview":"pp",
-  "producer":"Sophia Paul",
-  "screenplay":"M. Sindhuraj",
+  "producer":[{"name":"Sophia Paul","img":"kkkk.jpg"}],
+  "screenplay":[{"name":"M.Sindhuraj","img":"kkkk.jpg"}],
   "music":[{"name":"Bijibal","img":"bijipal.jpg"},{"name":"M.Jayachandran","img":"jayan.jpg"}],  
-  "review":"<p>Munthirivallikal Thalirkkumbol (English: When the Grapevines Sprout) is an upcoming Indian Malayalam domestic drama film directed by Jibu Jacob and written by M. Sindhuraj, loosely based on the Malayalam short story Pranayopanishath by V. J. James. Produced and distributed by Weekend Blockbusters of Sophia Paul, the film stars Mohanlal and Meena, respectively as Panchayat secretary Ulahannan and his wife Annyamma. The soundtrack would feature songs composed by Bijibal and M. Jayachandran, and a film score by Bijibal.</p>
-  <p>Sindhuraj obtained the right for adapting Pranayopanishath from James when it was first published in a Malayalam magazine in 2011. In 2015, he was approached by Paul for screenwriting a film for Weekend Blockbusters, planned with Mohanlal in the lead role. He suggested a plot idea based on the short story and began developing the screenplay that year, with Jacob hired to direct the film. Principal photography commenced on 15 July 2016 in Kozhikode, Kerala where over 80 percent of the film was shot. Additional portions were shot at various locations in Alappuzha and concluded filming at Shimla in October 2016. poda patty</p>
+  "review":"<p>Munthirivallikal Thalirkkumbol (English: When the Grapevines Sprout) is an upcoming Indian Malayalam domestic drama film directed by Jibu Jacob and written by M. Sindhuraj, loosely based on the Malayalam short story Pranayopanishath by V. J. James. Produced and distributed by Weekend Blockbusters of Sophia Paul, the film stars Mohanlal and Meena, respectively as Panchayat secretary Ulahannan and his wife Annyamma. The soundtrack would feature songs composed by Bijibal and M. Jayachandran, and a film score by Bijibal.</p><p>Sindhuraj obtained the right for adapting Pranayopanishath from James when it was first published in a Malayalam magazine in 2011. In 2015, he was approached by Paul for screenwriting a film for Weekend Blockbusters, planned with Mohanlal in the lead role. He suggested a plot idea based on the short story and began developing the screenplay that year, with Jacob hired to direct the film. Principal photography commenced on 15 July 2016 in Kozhikode, Kerala where over 80 percent of the film was shot. Additional portions were shot at various locations in Alappuzha and concluded filming at Shimla in October 2016.</p><p>Munthirivallikal Thalirkkumbol was originally set for a Christmas opening, scheduled to be released on 22 December 2016 in India. But was delayed as the screening of Malayalam films were halted at the time due to an indefinite strike between the associations of theatres and producers in Kerala. The film is awaiting to re-schedule as soon as the strike is over.</p>",
   
-  <p>Munthirivallikal Thalirkkumbol was originally set for a Christmas opening, scheduled to be released on 22 December 2016 in India. But was delayed as the screening of Malayalam films were halted at the time due to an indefinite strike between the associations of theatres and producers in Kerala. The film is awaiting to re-schedule as soon as the strike is over.</p>"
-  ,
-  "camera":"Pramod K. Pillai",
-  "artist":[{"name":"Mohanlal","img":"kkkk.jpg"},{"Meena":"kk","img":"kkkk.jpg"},{"name":"kk","img":"kkkk.jpg"}],
-  "Editor":"Sooraj Es",
+  "camera":[{"name":"Pramod K Pillai","img":"kkkk.jpg"}],
+  "artists":[{"name":"Mohanlal","img":"kkkk.jpg"},{"Meena":"kk","img":"kkkk.jpg"},{"name":"kk","img":"kkkk.jpg"}],
+  "Editor":[{"name":"Sooraj ES","img":"kkkk.jpg"}],
   "Language":"Malayalam"
 }
 
